@@ -2,7 +2,7 @@
 **Introduction**
 This project aims to analyze various facets of COVID-19 data specific to India, ranging from the number of cases and fatalities to the distribution of vaccinations and the effectiveness of public health measures. By dissecting this data, our objective is to uncover insights that can inform strategies to combat the pandemic and mitigate its impact on Indian communities.
 
-**Inport different data analysis modules in python**
+**Import different data analysis modules in python**
 
 ![Screenshot 2024-04-20 144018](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/ac86e3ed-511e-4e3f-90a1-283a11579e46)
 
@@ -55,11 +55,10 @@ This project aims to analyze various facets of COVID-19 data specific to India, 
  
  ![Screenshot 2024-04-20 192131](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/ec0a6fa5-8608-4b6f-9416-f010b3b7e7f2)
 
-**create figure plotting and  title**
 
-![Screenshot 2024-04-20 192352](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/05b0d8dd-2100-417c-9a3d-3ed64787efa3)
+**Top 5 active case in India statewise**
+![image](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/95d12eaf-229c-4e5c-9c44-66547f2fd1ba)
 
-![Screenshot 2024-04-20 192726](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/dcd1be22-6107-4bf0-95bd-43fe4e5979e2)
 
 **Top 10 states with most active case in India**
 
@@ -88,6 +87,18 @@ This project aims to analyze various facets of COVID-19 data specific to India, 
  
 **Check the vaccine Dataset information**
 ![image](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/d3ccf331-1bd8-4672-8d82-e1a0a72ac968)
+
+**Name and Details of the columns**
+![image](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/131e18e6-38e4-4025-9eb9-8f67ac508efc)
+
+**Male and Female Vaccination Data**
+![image](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/a7d17378-b6f0-4565-b6c0-f38d17af5330)
+
+**Final Graph of Top 5 Vaccinated States**
+![image](https://github.com/Priya30jan/Covid19-Data-Analysis-Project/assets/127383717/2cb7bf85-c6a8-4a8f-888e-58374474d861)
+
+
+
 
 
 
